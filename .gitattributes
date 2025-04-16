@@ -1,1 +1,2 @@
 sudachi/system_core.dic filter=lfs diff=lfs merge=lfs -text
+terraform/system_core.dic filter=lfs diff=lfs merge=lfs -text
